@@ -40,6 +40,13 @@ export const mockData = {
           "url": "https://curlconverter.com/",
           "description": "curl命令转换工具",
           "icon": "/sitelogo/curlconverter.com.ico"
+        },
+        {
+          "id": "site-1753421856485",
+          "name": "厂长资源",
+          "url": "https://www.czzy77.com/",
+          "description": "",
+          "icon": "/sitelogo/www.czzy77.com.ico"
         }
       ]
     },
@@ -481,6 +488,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "Lolikingの后花园",
-  "_fileSha": "fa76b0cb6370a570d69ded0400e18cf51d5b1886"
+  "title": "Lolikingの后花园"
 }
